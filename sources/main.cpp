@@ -1,4 +1,5 @@
-#include "mariamelsaqa.h"
+#include "olahaiba1"
+#include"alaakady"
 int main()
 {
 olahaiba1();
