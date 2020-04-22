@@ -1,4 +1,4 @@
-include "alaakady.h"
+#include "alaakady.h"
 
 void alaakady ()
 {
